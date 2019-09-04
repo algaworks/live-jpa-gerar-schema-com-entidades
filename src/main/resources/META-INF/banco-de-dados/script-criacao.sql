@@ -1,0 +1,1 @@
+create or replace view view_usuario as select * from usuario;
